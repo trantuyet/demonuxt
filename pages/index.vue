@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        demonuxt
+        HI GUYS, WELCOME TO MY NUXT's PROJECT ;)))))
       </h1>
       <div class="links">
         <a
